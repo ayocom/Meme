@@ -1,0 +1,35 @@
+body {
+    background-image: url(fortnite.jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+p {
+    font-size: 96px;
+    color: red;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+h1 {
+    text-align: center;
+    font-size: 102px;
+    font-family: 'Festive', cursive;
+    color: blue;
+}
+
+.top {
+    position: absolute;
+    top: 0px;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 0px;
+}
+
+.author {
+    font-family: 'Shizuru', cursive;
+}
+
